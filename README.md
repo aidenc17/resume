@@ -17,7 +17,7 @@ I am currently focused on software engineering and cybersecurity. My experience 
 
 ## Resume
 
-📄 [View My Resume (PDF)](./Spring_2026_Resume.pdf)
+[View My Resume (PDF)](./Spring_2026_Resume.pdf)
 
 ---
 
